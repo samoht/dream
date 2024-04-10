@@ -14,7 +14,7 @@ maintainer: "Anton Bachin <antonbachin@yahoo.com>"
 
 depends: [
   "dream-pure"
-  "dune" {>= "2.7.0"}  # --instrument-with.
+  "dune" {>= "3.8.0"}  # --instrument-with.
   "lwt"
   "lwt_ppx" {>= "1.2.2"}
   "lwt_ssl"
